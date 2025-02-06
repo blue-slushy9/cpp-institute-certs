@@ -1,0 +1,1 @@
+This repo is for my notes on the syllabi for the C and C++ certifications from this organization.
